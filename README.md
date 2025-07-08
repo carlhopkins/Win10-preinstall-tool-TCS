@@ -1,4 +1,4 @@
-## NOTE - This repo has been archived and superseeded by [TCS (Machine) PreParation Tool](https://github.com/carlhopkins/TCS-PreP-Tool) ##
+## NOTE - This repo has been archived and superseded by [TCS (Machine) PreParation Tool](https://github.com/carlhopkins/TCS-PreP-Tool) ##
 
 ## TCS Windows 10 Machine Pre-Installation PreP Tool ##
 
